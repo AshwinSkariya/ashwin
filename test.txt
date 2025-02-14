@@ -1,6 +1,10 @@
-aub
-aiml
-cse
-source code
-management
-added ashwin
+#include<stdio.h>
+int main()
+{
+int a,b,c;
+a=10;
+b=20;
+c=a+b;
+printf("the addition of two number is %d",c);
+return0;
+}
