@@ -1,0 +1,1 @@
+Web development involves creating and maintaining websites for the internet. It includes front-end development for user interfaces and back-end development for server-side logic. Technologies like HTML, CSS, JavaScript, and frameworks help build dynamic and responsive sites. A well-developed website enhances user experience and accessibility.
