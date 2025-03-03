@@ -1,0 +1,10 @@
+1. A **repository** (repo) is a storage location for project files and version history in Git.  
+2. It tracks changes to files over time, allowing collaboration and version control.  
+3. A repository can be **local** (on your computer) or **remote** (on platforms like GitHub, GitLab).  
+4. You create a local repository using `git init`.  
+5. Files in a repository go through three stages: **untracked**, **staged**, and **committed**.  
+6. You use `git add` to stage files and `git commit` to save changes.  
+7. A **remote repository** is linked using `git remote add origin <URL>`.  
+8. Changes can be uploaded to a remote repo using `git push`.  
+9. You can get updates from a remote repo using `git pull`.  
+10. Git repositories enable easy collaboration, rollback, and version tracking.

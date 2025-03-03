@@ -1,0 +1,10 @@
+1. **GitHub** is a cloud-based platform for hosting and managing Git repositories.  
+2. It allows developers to collaborate, track changes, and manage projects efficiently.  
+3. You can **create a repository** on GitHub to store your project's code.  
+4. Use `git remote add origin <URL>` to link a local repo to GitHub.  
+5. Push local changes to GitHub using `git push origin main` (or `master`).  
+6. You can **clone** a GitHub repository with `git clone <URL>`.  
+7. GitHub supports **pull requests**, allowing developers to propose and review changes.  
+8. It includes features like **issues, discussions, and actions** for project management.  
+9. GitHub repositories can be **public** (visible to all) or **private** (restricted access).  
+10. It integrates with CI/CD tools, making software development more efficient. 
