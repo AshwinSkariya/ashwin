@@ -1,0 +1,6 @@
+LeetCode is a popular online platform for practicing coding and improving problem-solving skills. 
+It offers a vast collection of coding challenges in algorithms, data structures,
+and system design. Many programmers use it to prepare
+for technical interviews at top companies like Google and Amazon. With features 
+like contests, discussions, and company-specific questions,
+LeetCode is a go-to platform for coding enthusiasts.
